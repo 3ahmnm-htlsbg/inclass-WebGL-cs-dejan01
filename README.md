@@ -1,28 +1,38 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+This Project contains a headline, a button, and four empty objects, which each one of them is in a corner. By pressing the button the Ball moves to one of these corners, but never moving to the same corner in a row. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* MacOS Catalina 10.15
+* Unity 2019.1.14f1
+* Visual Studio Code 1.41.1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL RefRes 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+
+<div>   
+    <img src = "./Screenshots/Screenshot_Unity.png" width="500">
+    <img src = "./Screenshots/Screenshot_Script.png" width = "500">
+</div>
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+ToDo
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+GitHub Temp. : 3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+WebGl is not build and needs therefore to be build. GUI is build and Script is working. Percent: ~75%
 
 ### Limitations: 
+Game is not finished, since we didn't learn how to create game with WebGl
 
 ### Lessons Learned: 
+* Generating random Numbers
+* Using Sprite and assign Picture to it
+* Using Arrays in Scripts
 
-Copyright by you :)
+Copyright by Dejan
